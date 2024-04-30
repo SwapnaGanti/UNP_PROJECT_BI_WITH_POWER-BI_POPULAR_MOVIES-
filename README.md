@@ -16,6 +16,6 @@ Top Movies: Identify notable top-rated movies based on user ratings, including [
 
 PDF link: https://drive.google.com/file/d/1YU1EbJ94hYbrJcCW_2n54566O9b2uJ9K/view?usp=sharing
 
-PBIX file link: https://drive.google.com/file/d/1gdGcsrMX-nj-ZZA1nN_fNhMm2zj8aKns/view?usp=sharing
+PBIX file link: https://drive.google.com/file/d/13yfxJAG9M5Opne9l1hsIGnZx1dwQfdJ3/view?usp=sharing
 
 PPT: https://drive.google.com/file/d/1zsf790Pmh3o_OCsaxFxgz-etyl5eo9Ga/view?usp=sharing
